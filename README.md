@@ -120,18 +120,6 @@ Semua model klasik menggunakan **CountVectorizer** untuk ekstraksi fitur dari te
 
 Hasil evaluasi model (confusion matrix, accuracy, precision, recall, F1-score) dapat dilihat secara detail di dalam notebook dan laporan PDF (`Project 1 - Gregorius Reynaldi Pratama.pdf`).
 
-### Perbandingan Performa Model
-| Model | Accuracy | Precision | Recall | F1-Score |
-|-------|----------|-----------|--------|----------|
-| Random Forest | ★★★☆☆ | ★★★☆☆ | ★★★☆☆ | ★★★☆☆ |
-| Naive Bayes | ★★☆☆☆ | ★★☆☆☆ | ★★☆☆☆ | ★★☆☆☆ |
-| XGBoost | ★★★★☆ | ★★★★☆ | ★★★★☆ | ★★★★☆ |
-| CNN | ★★★★☆ | ★★★★☆ | ★★★★☆ | ★★★★☆ |
-| LSTM | ★★★★★ | ★★★★★ | ★★★★★ | ★★★★★ |
-| Simple RNN | ★★★☆☆ | ★★★☆☆ | ★★★☆☆ | ★★★☆☆ |
-| Transformer | ★★★★★ | ★★★★★ | ★★★★★ | ★★★★★ |
-| Voting Classifier | ★★★★★ | ★★★★★ | ★★★★★ | ★★★★★ |
-
 ## 🤝 Contributing
 
 Kontribusi sangat diterima! Silakan lihat [CONTRIBUTING.md](CONTRIBUTING.md) untuk panduan详细 tentang cara berkontribusi pada proyek ini.
