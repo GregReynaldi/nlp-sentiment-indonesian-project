@@ -122,7 +122,7 @@ Hasil evaluasi model (confusion matrix, accuracy, precision, recall, F1-score) d
 
 ## 🤝 Contributing
 
-Kontribusi sangat diterima! Silakan lihat [CONTRIBUTING.md](CONTRIBUTING.md) untuk panduan详细 tentang cara berkontribusi pada proyek ini.
+Kontribusi sangat diterima! Silakan lihat [CONTRIBUTING.md](CONTRIBUTING.md) untuk panduan lengkap tentang cara berkontribusi pada proyek ini.
 
 ## 📄 License
 
